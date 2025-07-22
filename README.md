@@ -15,3 +15,6 @@ Designed to be mobile-ready, responsive, and clean — suitable for showcasing f
 
 ## License
 MIT
+
+## Preview
+![Calculator Preview](./screenshot.png)
